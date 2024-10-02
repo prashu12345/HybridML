@@ -1,1 +1,3 @@
-# HybridML
+Project Title: Hybrid Machine Learning- Based System for Detecting Phishing Attacks via URL Analysis
+
+Objective: The primary objective of this proposal is to develop an advanced phishing detection system using a hybrid machine learning approach that focuses on URL analysis, Analyzing and understanding the characteristics and features of phishing URLs. Implementing a hybrid machine learning model combining several Machine learning techniques for URL classification. Enhancing the accuracy and efficiency of phishing detection compared to traditional methods. Evaluating the performance of the developed system through extensive testing and validation.
